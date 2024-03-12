@@ -1,6 +1,6 @@
 # Migrating to Jetpack Compose
 
-Android Studio에서 제공하는 제트팩 컴포즈의 예시 코드 flower 파일을 다운 받아 사용했습니다.
+Android Studio에서 제공하는 제트팩 컴포즈의 예시 코드 flower 파일을 다운 받아 사용함.
 
 ## 수정된 파일
 - fragment_plant_defail.xml
